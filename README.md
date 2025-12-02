@@ -41,4 +41,8 @@ Não é necessária nenhuma biblioteca externa, apenas o Python instalado.
    - Biblioteca <tt>sys</tt>: Para manipulação de argumentos de linha de comando.
   
    ## ⚠️ Aviso Legal (Disclaimer)
-   Esta ferramenta foi desenvolvida estritamente para <tt>fins educacionais e de aprendizado</tt>. O uso de scanners de porta em redes de terceiros sem autorização prévia pode ser ilegal ou violar termos de serviço.          Utilize apenas em sua própria rede ou em ambientes onde você tenha permissão explícita para testes.
+   Esta ferramenta foi desenvolvida estritamente para <tt>fins educacionais e de aprendizado</tt>. O uso de scanners de porta em redes de terceiros sem autorização prévia pode ser ilegal ou violar termos de          serviço. Utilize apenas em sua própria rede ou em ambientes onde você tenha permissão explícita para testes.
+
+   <br>
+   <div align="center"> Desenvolvido por <a href="https://github.com/bodnarguilherme">Guilherme Bodnar</a> </div>
+
